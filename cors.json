@@ -1,0 +1,16 @@
+[
+  {
+    "origin": [
+      "https://rara-a10ab.web.app",
+      "https://rara-a10ab.firebaseapp.com",
+      "https://rasfsfsggsg.github.io",
+      "https://msfullstackdevelopers-glitch.github.io",
+      "https://app.visionar.tech",
+      "http://localhost:5000",
+      "http://localhost:8080"
+    ],
+    "method": ["GET", "HEAD"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "Content-Length", "Content-Disposition"]
+  }
+]

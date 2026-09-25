@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222206847620",
+    "firebase_url": "https://rara-a10ab-default-rtdb.firebaseio.com",
+    "project_id": "rara-a10ab",
+    "storage_bucket": "rara-a10ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222206847620:android:91ae397d0e714b3a2fb0d1",
+        "android_client_info": {
+          "package_name": "com.example.visionar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222206847620-cte75pr4ef6dmuecqjnv79csb3m3davs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4c2tgIg7si50Tkdh7q9OFiqLdRn9bMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222206847620-cte75pr4ef6dmuecqjnv79csb3m3davs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
